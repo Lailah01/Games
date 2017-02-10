@@ -3,6 +3,8 @@
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 
+#edited by Lailah Weatherspoon#
+
 # KRT 17/06/2012 rewrite event detection to deal with mouse use
 
 import random, time, pygame, sys
