@@ -3,6 +3,8 @@
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 
+# edited by Lailah Weatherspoon#
+
 import random, pygame, sys
 from pygame.locals import *
 
