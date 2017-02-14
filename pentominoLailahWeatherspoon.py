@@ -36,10 +36,11 @@ BLUE        = (  0,   0, 155)
 LIGHTBLUE   = ( 20,  20, 175)
 YELLOW      = (155, 155,   0)
 LIGHTYELLOW = (175, 175,  20)
+ORANGE      = (255, 102,   0)
 
 BORDERCOLOR = YELLOW #change border color from blue to yellow#
 BGCOLOR = BLACK
-TEXTCOLOR = WHITE
+TEXTCOLOR = ORANGE #changed text color to orange
 TEXTSHADOWCOLOR = GRAY
 COLORS      = (     BLUE,      GREEN,      RED,      YELLOW)
 LIGHTCOLORS = (LIGHTBLUE, LIGHTGREEN, LIGHTRED, LIGHTYELLOW)
